@@ -1,3 +1,21 @@
+# [4.0.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v3.0.0...v4.0.0) (2021-01-15)
+
+
+### Bug Fixes
+
+* this does not have any more body ([8676c3f](https://github.com/rmi22186/rob-changelog-release-test/commit/8676c3f6ce041ff2639ddda9dd8d41302172f7e3))
+
+
+### Features
+
+* Update the body again ([c09694e](https://github.com/rmi22186/rob-changelog-release-test/commit/c09694e9cdcbe6ed792fdc49c3ea900163033d27))
+* Update this sucker ([899b83d](https://github.com/rmi22186/rob-changelog-release-test/commit/899b83d9f6fc9d88497046d5933a4b26448680f3))
+
+
+### BREAKING CHANGES
+
+* yoooooooooo
+
 # [3.1.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v3.0.0...v3.1.0) (2021-01-15)
 
 # [3.0.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v2.1.2...v3.0.0) (2021-01-15)
