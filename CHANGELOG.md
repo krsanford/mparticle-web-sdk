@@ -1,3 +1,5 @@
+# [3.1.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v3.0.0...v3.1.0) (2021-01-15)
+
 # [3.0.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v2.1.2...v3.0.0) (2021-01-15)
 
 
