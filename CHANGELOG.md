@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v3.0.0...v3.1.0) (2021-01-15)
+
+
+### Features
+
+* abcdefg ([6717be7](https://github.com/rmi22186/rob-changelog-release-test/commit/6717be76ca89e0e85ce6f734a728839658e1b364))
+
 # [3.0.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v2.1.2...v3.0.0) (2021-01-15)
 
 
