@@ -1,3 +1,17 @@
+# [3.0.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v2.1.2...v3.0.0) (2021-01-15)
+
+
+### Bug Fixes
+
+* abc ([dce8564](https://github.com/rmi22186/rob-changelog-release-test/commit/dce8564b5f8e2a3f097a0019b7e33079548934f5))
+* update ([f0a104f](https://github.com/rmi22186/rob-changelog-release-test/commit/f0a104f0f332191494b71c512273d73288c89c86))
+* update .releaserc ([45e2919](https://github.com/rmi22186/rob-changelog-release-test/commit/45e29197dfebefa4bfb88131d78120c526c79dc8))
+
+
+### BREAKING CHANGES
+
+* and more text and more text and more textand more text and more text and more textand more text and more text and more textand more text and more text and more textand more text and more text and more textand more text and more text and more text
+
 ## [2.1.2](https://github.com/rmi22186/rob-changelog-release-test/compare/v2.1.1...v2.1.2) (2021-01-15)
 
 
