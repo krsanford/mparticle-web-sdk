@@ -8,16 +8,9 @@
             "owner": "custom-owner"
         }],
         ["@semantic-release/changelog", {"changelogFile": "CHANGELOG.md"}],
-        ["@semantic-release/github", {
-            "assets": "abc.js"
-        }],
-        ["@semantic-release/npm", {
-            "npmPublish": false
-        }],
-        ["@semantic-release/git", {
-            "assets": ["package.json", "package-lock.json", "CHANGELOG.md"],
-            "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
-    }],
+        ["@semantic-release/exec", {
+            "prepareCmd": "./release.sh abcabc",
+        }]
     ],
     "ci": false
 }
