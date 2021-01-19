@@ -1,0 +1,6 @@
+VERSION=$1
+echo VERSION
+echo VERSION
+echo VERSION
+echo VERSION
+echo VERSION
