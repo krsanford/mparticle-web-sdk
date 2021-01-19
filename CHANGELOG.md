@@ -1,3 +1,21 @@
+# [5.0.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v4.0.0...v5.0.0) (2021-01-19)
+
+
+### Bug Fixes
+
+* Add console.log ([#14](https://github.com/rmi22186/rob-changelog-release-test/issues/14)) ([17a3cba](https://github.com/rmi22186/rob-changelog-release-test/commit/17a3cba353166deac288c2904c50e3b50fdd76c9))
+* test pr link ([f2e1fb1](https://github.com/rmi22186/rob-changelog-release-test/commit/f2e1fb15cdf53a9c117f56b9c166584d0645ddf5))
+
+
+### Features
+
+* Breaking change ([#15](https://github.com/rmi22186/rob-changelog-release-test/issues/15)) ([35cf17d](https://github.com/rmi22186/rob-changelog-release-test/commit/35cf17d282cf3c7566478c9cec47cd3f7f9df572))
+
+
+### BREAKING CHANGES
+
+* this breaking change body blah blah blah
+
 # [4.0.0](https://github.com/rmi22186/rob-changelog-release-test/compare/v3.0.0...v4.0.0) (2021-01-15)
 
 
