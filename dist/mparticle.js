@@ -719,10 +719,14 @@ var mParticle = (function () {
       TriggerUploadType: TriggerUploadType
     };
 
+    var version = "2.12.3";
+
     var Constants = {
-      sdkVersion: '2.12.2',
+      sdkVersion: version,
       sdkVendor: 'mparticle',
       platform: 'web',
+      key: 'web123',
+      key1: 'web12345',
       Messages: {
         ErrorMessages: {
           NoToken: 'A token must be specified.',
@@ -741,6 +745,7 @@ var mParticle = (function () {
           BadLogPurchase: 'Transaction attributes and a product are both required to log a purchase, https://docs.mparticle.com/?javascript#measuring-transactions'
         },
         InformationMessages: {
+          OtherInfoMessage: 'information',
           CookieSearch: 'Searching for cookie',
           CookieFound: 'Cookie found, parsing values',
           CookieNotFound: 'Cookies not found',
