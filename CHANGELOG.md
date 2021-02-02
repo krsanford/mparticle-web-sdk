@@ -1,3 +1,10 @@
+# [2.13.0](https://github.com/mParticle/mparticle-web-sdk-public-test/compare/v2.12.3...v2.13.0) (2021-02-02)
+
+
+### Features
+
+* update constants.js ([ae660b5](https://github.com/mParticle/mparticle-web-sdk-public-test/commit/ae660b5039bc9b7dbec7f2ecfb8df99ef452a78a))
+
 ## Releases
 
 --
